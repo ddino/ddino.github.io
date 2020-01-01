@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof. Dino Distefano"
+  name             : "Dino Distefano"
   avatar           : "profile.png"
   bio              : "Professor of Software Verification"
   location         : "Queen Mary University of London"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=ATp_q8QAAAAJ&hl=en"
-  email            :
+  email            :  "ddino@dcs.qmul.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
