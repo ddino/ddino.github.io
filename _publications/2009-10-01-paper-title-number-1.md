@@ -5,7 +5,7 @@ collection: publications
 venue: "Commun. ACM"
 volume: "62:8"
 pages: "62-70" 
-year:"2019"
+year: "2019"
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
