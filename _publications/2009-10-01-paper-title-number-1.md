@@ -1,5 +1,5 @@
 ---
-author:"Dino Distefano, Manuel Fähndrich, Francesco Logozzo, Peter W. O'Hearn"
+author: "Dino Distefano, Manuel Fähndrich, Francesco Logozzo, Peter W. O'Hearn"
 title: "Scaling static analyses at Facebook."
 collection: publications
 venue: "Commun. ACM"
