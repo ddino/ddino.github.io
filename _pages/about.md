@@ -14,3 +14,5 @@ I was also a founder of Monoidics Ltd a technology startup specialised in automa
 Monoidics was acquired by Facebook in July 2013.
 
 I received my PhD from the University of Twente, in The Netherlands.
+
+I'm currently on leave at Meta where I'm working on Developer Tooling and Infrastructure for WhatsApp.
