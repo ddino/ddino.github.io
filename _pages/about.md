@@ -13,6 +13,10 @@ I'm Professor of Software Verification in the School of Electronic Engineering a
 I was also a founder of Monoidics Ltd a technology startup specialised in automatic verification tools.
 Monoidics was acquired by Facebook in July 2013.
 
-I received my PhD from the University of Twente, in The Netherlands.
+I'm the recipient of several awards, including **The Roger Needham Award 2012**, the **Royal Academy of Engineering Silver Medal 2014**, the **IEEE Computer Society Cybersecurity Award For Practice 2021**, the **ACM SIGPLAN POPL 2019 Most Influential Paper Award**, the **SIGPLAN Most influential OOPSLA paper award 2018**, the **CAV Award 2016**.
 
 I'm currently on leave at Meta where I'm working on Developer Tooling and Infrastructure for WhatsApp.
+
+I received my PhD from the University of Twente, in The Netherlands.
+
+
