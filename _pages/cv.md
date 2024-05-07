@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 My research focuses on automatic software verification, program analysis, and automatic detection of critical software bugs. I have co-designed and co-developed several code analysis tools both in academia and in industry.
-In particular, the the co-inventor of Infer an open source static analysis tool used at Meta and by many companies around the world (e.g., Amazon, Microsoft,...)
+In particular, the the co-inventor of <a href="https://fbinfer.com/">Infer</a> an open source static analysis tool used at Meta and by many companies around the world (e.g., Amazon, Microsoft,...)
+
 Currently I leading the WhatsApp Dev Infra Org. My team builds tool and infrastructure to help WhatsApp back-end developers shipping more reliable, secure, and private code at a faster pace to the over 2 billions WhatsApp users.
 
 
