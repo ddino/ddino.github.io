@@ -7,6 +7,8 @@ author_profile: true
 
 
 ## Keynote Invited Talks
+* Principles of Verification: Cycling the Probabilistic Landscape, Aachen, Germany
+* O'Hearn Fest, POPL 2024, London, UK
 * Haifa Verifcation Conference (HVC) 2017. Haifa, Israel
 * AVM 2017. Visegrad, Hungary
 * TACAS 2017. Uppsala, Sweden 
