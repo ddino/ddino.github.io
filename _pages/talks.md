@@ -7,8 +7,6 @@ author_profile: true
 
 
 ## Keynote Invited Talks
-* Principles of Verification: Cycling the Probabilistic Landscape, Aachen, Germany
-* O'Hearn Fest, POPL 2024, London, UK
 * Haifa Verifcation Conference (HVC) 2017. Haifa, Israel
 * AVM 2017. Visegrad, Hungary
 * TACAS 2017. Uppsala, Sweden 
@@ -29,6 +27,8 @@ object-oriented programming). Paphos, Cyprus
 
 
 ## Conferences/Workshops/Invited Lectures/Seminars
+* Principles of Verification: Cycling the Probabilistic Landscape, Aachen, Germany
+* O'Hearn Fest, POPL 2024, London, UK
 * TAPAS 2018. Freiburg, Germany.
 * HSST 2016. Bristol, UK.
 * FMATS 2, Cambridge, Feb. 2013.
