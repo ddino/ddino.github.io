@@ -26,8 +26,8 @@ object-oriented programming). Paphos, Cyprus
 
 
 
-## Conferences/Workshops/Invited Lectures/Seminars
-* Principles of Verification: Cycling the Probabilistic Landscape, Aachen, Germany
+## Selected list of Invited talks at Conferences/Workshops, Lectures, Seminars
+* Principles of Verification: Cycling the Probabilistic Landscape, Aachen, Germany, 2024
 * O'Hearn Fest, POPL 2024, London, UK
 * TAPAS 2018. Freiburg, Germany.
 * HSST 2016. Bristol, UK.
